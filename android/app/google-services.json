@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "820238938907",
+    "project_id": "tarea-agence",
+    "storage_bucket": "tarea-agence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820238938907:android:668d627b5bd04c794b99be",
+        "android_client_info": {
+          "package_name": "com.example.websockets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820238938907-lbb8j7pt73o9utmlueium072tbma3ltk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.websockets",
+            "certificate_hash": "e4069b110bacaa28ad81c732698be68cd18381fd"
+          }
+        },
+        {
+          "client_id": "820238938907-tupkm1kgddv52t7i5j7ogdbrgu0sg84c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRYochVLZpNiNxDQ13EBGVb0rmtbFaWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820238938907-853ivklppbnnoup837k951ipntn7jded.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820238938907-hprndks41hda6ijp5jo424j8v69g1q7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.websockets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
